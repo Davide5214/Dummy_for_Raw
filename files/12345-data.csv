@@ -3,6 +3,7 @@ SRN  1020102
 SiteID  1111
 HCFName Ospedale Pianta
 Modality MRI_WITH
+ModalityCfg  MRI_WITH
 DateTime  AlertType  AlertsSent
 2025-06-16 00:12:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
 2025-06-16 00:12:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
