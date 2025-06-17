@@ -1,1 +1,38 @@
-nome1,nome2,nome3
+eAlertSlNo  ABC123
+SRN  1020102
+SiteID  1111
+HCFName Ospedale Pianta
+Modality MRI_WITH
+DateTime  AlertType  AlertsSent
+2025-06-16 00:12:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-16 00:12:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-16 00:11:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-16 00:10:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-16 00:10:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-16 00:09:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-16 00:09:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-16 00:09:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-16 00:08:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-16 00:08:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-16 00:07:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-16 00:07:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-16 00:06:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-16 00:06:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-16 00:05:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-16 00:05:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-16 00:04:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-16 00:04:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-16 00:03:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-16 00:03:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-16 00:02:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-16 00:02:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-16 00:01:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-16 00:01:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-16 00:00:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-16 00:00:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-15 00:12:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+2025-06-15 00:12:25,637  SMS-Filiale, Ospedale Pianta, 1111, [2] Tutto ok
+2025-06-15 00:11:25,637  SMS-Filiale, Ospedale Pianta, 1111, [1] La temperatura dell'acqua è al di fuori delle soglie
+
+
+
