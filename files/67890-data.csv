@@ -1,1 +1,39 @@
-nome7,nome8,nome9
+eAlertSlNo  DEF567
+SRN  30303030
+SiteID  2222
+HCFName Clinica Davide
+Modality MRI_WITH
+ModalityCfg  MRI_WITH
+DateTime  AlertType  AlertsSent
+2025-06-16 00:12:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-16 00:12:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-16 00:11:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-16 00:10:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-16 00:10:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-16 00:09:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-16 00:09:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-16 00:09:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-16 00:08:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-16 00:08:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-16 00:07:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-16 00:07:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-16 00:06:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-16 00:06:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-16 00:05:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-16 00:05:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-16 00:04:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-16 00:04:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-16 00:03:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-16 00:03:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-16 00:02:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-16 00:02:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-16 00:01:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-16 00:01:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-16 00:00:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-16 00:00:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-15 00:12:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+2025-06-15 00:12:25,637  SMS-Filiale, Clinica Davide, 2222, [4] La temperatura del gas non è dentro ai limiti specificati
+2025-06-15 00:11:25,637  SMS-Filiale, Clinica Davide, 2222, [3] il magnete non funziona correttamente
+
+
+
